@@ -1,0 +1,121 @@
+/* Copyright to gogears Github */
+body{
+    font-family: 'Heebo', sans-serif;
+    font-size: 14px;
+    color: #333333;
+    background: #151515;
+}
+a, a:hover, a:focus{
+    text-decoration: none;
+    color: inherit;
+}
+.gogears, .gogears .ggWrapper, .gogears .ggWrapper .ggWrapper_1{
+    height: 100vh;
+}
+.gogears .selfLeft {
+    height: 100vh;
+}
+.gogears .introBlock h3{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 37px;
+}
+.gogears .introBlock ul {
+    padding: 0;
+}
+.gogears .introBlock ul li {
+    color: #6a6a6a;
+    font-weight: 400;
+    font-size: 16px;
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.gogears .introBlock ul li:last-child{
+    margin-left: 5px;
+    padding-left: 10px;
+}
+.gogears .introBlock ul li:last-child:before {
+    content: "";
+    width: 1px;
+    height: 23px;
+    background: #6a6a6a;
+    left: 0;
+    position: absolute;
+}
+.gogears .ggLinks img {
+    width: 30px;
+    margin-right: 23px;
+    margin-left: 0;
+}
+.gogears .selfRight{
+    margin-top: 3px;
+}
+.gogears [class*="idea_"] {
+    padding: 35px;
+    margin: 10px auto;
+}
+.gogears .idea_1{
+    background: #2f2e2e;
+}
+.gogears .idea_2{
+    background: #242424;
+}
+.gogears [class*="idea_"] * {
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+.gogears [class*="idea_"] h6 {
+    font-weight: 300;
+    font-size: 14px;
+}
+.gogears .blogBlock a {
+    background: #1e1e1e;
+    display: block;
+    padding: 35px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.gogears .blogBlock h4{
+    font-size: 18px;
+    line-height: normal;
+    font-weight: 500;
+}
+.gogears .blogBlock h6{
+    color: #6a6a6a;
+    font-weight: 400;
+    font-size: 15px;
+}
+.gogears .blogBlock [class*="col-md"]:first-child {
+    padding-right: 5px;
+}
+.gogears .blogBlock [class*="col-md"]:nth-child(2) {
+    padding-left: 5px;
+}
+.gogears a img {
+    width: 12px;
+    margin-left: 10px;
+}
+.gogears .blogBlock .blogType {
+    position: relative;
+    padding-left: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #a2a2a2;
+    margin-left: 5px;
+}
+.gogears .blogBlock .blogType:before{
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 5px;
+    height: 5px;
+    background: #fff;
+    border-radius: 50%;
+}
+.gogears .copyrightBlock{
+    color: #666666;
+}
+/* Copyright to gogears Github */
